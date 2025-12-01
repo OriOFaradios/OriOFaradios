@@ -1,8 +1,8 @@
 ## Hola, ¿Que tal?👋
 
-🔭 I’m a wanna be dev, project manager on [ETSI](https://www.etsi.org/)<br/>
+🔭 I’m another wanna-be-dev, PM at [ETSI](https://www.etsi.org/)<br/>
 🌱 I’m currently learning git, versioning, HTML, Markdown<br/>
-👯 I’m looking to collaborate on Accessibility<br/>
+👯 I’m looking to collaborate on ICT Accessibility & Railway Telecoms<br/>
 🤔 I’m looking for help to degooglelize me<br/>
 
 
