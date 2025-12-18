@@ -3,7 +3,7 @@
 🔭 I’m a wanna-be-dev who ends up as PM working at [ETSI](https://www.etsi.org/)<br/>
 🌱 Currently sharpening my tools: git, versioning, HTML, Markdown, with real use cases behind them<br/>
 👯 Interested in collaborating on ICT Accessibility and the evolution of Railway Telecommunications<br/>
-🤔 On a slow but determined quest to deGAFAM myself<br/>
+🤔 On a slow but determined quest to deGAFAMnize me<br/>
 
 ## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oriordaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oriodz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ori_odz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oriordaz@hotmail.com) 
