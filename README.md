@@ -2,7 +2,7 @@
 
 🔭 I’m a wanna-be-dev who ends up as PM working at [ETSI](https://www.etsi.org/)<br/>
 🌱 Currently sharpening my tools: git, versioning, HTML, Markdown, with real use cases behind them<br/>
-👯 Interested in collaborating on ICT Accessibility and the evolution of Railway Telecommunications<br/>
+👯 Interested in collaborating on ICT Accessibility and Enviromental Engineering on Smartphones and Data Centers insfraestructure<br/>
 🤔 On a slow but determined quest to deGAFAMnize me<br/>
 
 ## 🌐 My Socials:
